@@ -1,8 +1,14 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c45e57b5-6a22-4600-8872-63b933f74321/deploy-status)](https://app.netlify.com/sites/gatsbyfoodblog/deploys)
+
 # Gatsby blog with Netlify CMS
 
 This project is an example of how to build a blog using Gatsby to quickly develop a fast web app and Netlify CMS for simple way to create and edit contents.
 
 It is created as a part of the tutorial "A Complete Guide on Building your Blog with Gatsby and Netlify CMS". [Coming soon!]
+
+## Live demo
+
+You can check the live demo right [here](https://gatsbyfoodblog.netlify.app/)
 
 ## To run on a local machine, follow these steps:
 
