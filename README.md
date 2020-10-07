@@ -4,7 +4,7 @@
 
 This project is an example of how to build a blog using Gatsby to quickly develop a fast web app and Netlify CMS for simple way to create and edit contents.
 
-It is created as a part of the tutorial "A Complete Guide on Building your Blog with Gatsby and Netlify CMS". [Coming soon!]
+It is created as a part of the tutorial [How to Build a Blog with Gatsby and Netlify CMS – A Complete Guide](https://www.freecodecamp.org/news/how-to-build-a-blog-with-gatsby-and-netlify-cms/).
 
 ## Live demo
 
